@@ -9,15 +9,22 @@ This is a dataset of images for the purpose of machine learning and computer vis
 This set as taken using a iPhone 12 Wide Camera.
 
 - [bricks](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_1/original/bricks)
+- 
 - [grass](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_1/original/grass)
+- 
 - [gravel](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_1/original/gravel)
+- 
 - [ivy](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_1/original/ivy)
+- 
 - [stone](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_1/original/stone)
+- 
 - [wood](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_1/original/wood)
 
 ### Set 2
 This set as taken using a Cannon 5D Mark IV Camera.
 
 -[gravel](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_2/original/gravel)
+
 -[ground_plants](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_2/original/ground_plants)
+
 -[ivy](https://github.com/awesomelewis2007/image_dataset/tree/main/images/set_2/original/ivy)
