@@ -1,6 +1,9 @@
 # image-datasets
 ![](https://github.com/lewisevans2007/image_dataset/blob/main/banner.png?raw=true)
 
+> [!note]
+> This repository is now archived and moved over to [here](https://github.com/lewisevans2007/OpenImages).
+
 This is a dataset of images for the purpose of machine learning and computer vision. You can use these images for your projects.
 
 ## Contents 
